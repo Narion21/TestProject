@@ -840,7 +840,7 @@
             this.Controls.Add(this.tabControl);
             this.Controls.Add(this.buttonPanel);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Test  Project";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.tableTaskGv)).EndInit();
             this.tabPage1.ResumeLayout(false);
